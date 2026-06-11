@@ -14,7 +14,10 @@
    ```bash
    git clone https://github.com/xVOLKx/auth-phonebook-ts.git
    ```
-3. Создай базу данных `auth_phonebook_db`
+3. Создай базу данных 
+   ```bash
+   auth_phonebook_db
+   ```
 4. Создайте файл .env в корне проекта и добавьте:
    ```bash
    DATABASE_URL=postgresql://postgres:ТВОЙ_ПАРОЛЬ@localhost:5432/auth_phonebook_db
