@@ -5,7 +5,7 @@
 
 ## Живая версия
 
-👉 [https://auth-phonebook-ts.onrender.com](https://auth-phonebook-ts.onrender.com) (будет после деплоя)
+👉 [https://auth-phonebook-ts.onrender.com](https://auth-phonebook-ts.onrender.com)
 
 ## Как 🚀 запустить локально (для разработки)
 
