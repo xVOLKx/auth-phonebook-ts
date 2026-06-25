@@ -12,7 +12,7 @@
 
 [https://auth-phonebook-ts.onrender.com](https://auth-phonebook-ts.onrender.com)
 
-## ✅ Функции
+## <img src="images/features.svg" width="20"> Функции
 
 - <img src="images/shield.svg" width="20"> Регистрация и авторизация (JWT)
 - <img src="images/database.svg" width="20"> Просмотр, добавление, удаление контактов
@@ -65,11 +65,11 @@
 
 ## <img src="images/tech.svg" width="24" align="vertical-align: middle"> Технологии
 
-- <img src="images/node.svg" width="28" align="middle"> Node.js + Express
-- <img src="images/typescript.svg" width="28" align="middle"> TypeScript
-- <img src="images/database.svg" width="28" align="middle"> PostgreSQL
-- <img src="images/shield.svg" width="28" align="middle"> JWT, bcrypt
-- <img src="images/docker.svg" width="28" align="middle"> Docker / Docker Compose
+- <img src="images/node.svg" width="24" align="middle"> Node.js + Express
+- <img src="images/typescript.svg" width="24" align="middle"> TypeScript
+- <img src="images/database.svg" width="24" align="middle"> PostgreSQL
+- <img src="images/shield.svg" width="24" align="middle"> JWT, bcrypt
+- <img src="images/docker.svg" width="24" align="vertical-align: middle"> Docker / Docker Compose
 
 ## <img src="images/github.svg" width="24"> GitHub
 [Перейти в репозиторий](https://github.com/xVOLKx/auth-phonebook-ts)
