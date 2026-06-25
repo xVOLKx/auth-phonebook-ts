@@ -1,12 +1,24 @@
-# 📞 Телефонная книга с авторизацией (JWT + Express + TypeScript + PostgreSQL)
+# <img src="images/contacts.svg" width="32"> Телефонная книга с авторизацией
 
 Веб-приложение, где пользователи могут регистрироваться, входить в систему и управлять своими контактами (CRUD). Переписано с JavaScript на TypeScript.
 
-## 🌐 Живая версия
+[![Node.js](https://img.shields.io/badge/Node.js-18-green)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)](#)
+[![Docker](https://img.shields.io/badge/Docker-✓-blue)](#)
+[![License](https://img.shields.io/badge/license-MIT-blue)](#)
+
+## <img src="images/link.svg" width="24"> Живая версия
 
 [https://auth-phonebook-ts.onrender.com](https://auth-phonebook-ts.onrender.com)
 
-## 🚀 Запуск через Docker (рекомендуемый способ)
+## ✅ Функции
+
+- <img src="images/shield.svg" width="20"> Регистрация и авторизация (JWT)
+- <img src="images/database.svg" width="20"> Просмотр, добавление, удаление контактов
+- <img src="images/contacts.svg" width="20"> Каждый пользователь видит только свои контакты
+
+## <img src="images/start.svg" width="24"> Запуск через Docker (рекомендуемый способ)
 
 1. Убедись, что у тебя установлен Docker и Docker Compose
 2. Склонируй репозиторий
@@ -20,7 +32,7 @@
    ```
 4. Открой браузер: http://localhost:3000
 
-## 🛠 Запуск локально (без Docker)
+## <img src="images/install.svg" width="24"> Запуск локально (без Docker)
 
 1. Установи Node.js и PostgreSQL
 2. Склонируй репозиторий:
@@ -51,17 +63,17 @@
    ```
 8. Открой в браузере: http://localhost:3000
 
-   Функции
+## <img src="images/tech.svg" width="24" align="vertical-align: middle"> Технологии
 
-- Регистрация и вход (JWT)
-- Просмотр, добавление, удаление контактов
-- Каждый пользователь видит только свои контакты
+- <img src="images/node.svg" width="28" align="middle"> Node.js + Express
+- <img src="images/typescript.svg" width="28" align="middle"> TypeScript
+- <img src="images/database.svg" width="28" align="middle"> PostgreSQL
+- <img src="images/shield.svg" width="28" align="middle"> JWT, bcrypt
+- <img src="images/docker.svg" width="28" align="middle"> Docker / Docker Compose
 
-🛠️ Технологии
+## <img src="images/github.svg" width="24"> GitHub
+[Перейти в репозиторий](https://github.com/xVOLKx/auth-phonebook-ts)
 
-- Node.js + Express
-- TypeScript
-- PostgreSQL
-- JWT, bcrypt
-- HTML, CSS
-- Docker / Docker Compose
+## <img src="images/license.svg" width="28"> Лицензия
+
+MIT © [xVOLKx](https://github.com/xVOLKx)
