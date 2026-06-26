@@ -35,6 +35,7 @@
 ## <img src="images/install.svg" width="24"> Запуск локально (без Docker)
 
 1. Установи Node.js и PostgreSQL
+
 2. Склонируй репозиторий:
    ```bash
      git clone https://github.com/xVOLKx/auth-phonebook-ts.git
