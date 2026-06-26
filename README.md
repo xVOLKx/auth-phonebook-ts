@@ -21,6 +21,7 @@
 ## <img src="images/start.svg" width="24"> Запуск через Docker (рекомендуемый способ)
 
 1. Убедись, что у тебя установлен Docker и Docker Compose
+
 2. Склонируй репозиторий
    ```bash
      git clone https://github.com/xVOLKx/auth-phonebook-ts.git
